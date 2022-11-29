@@ -1,4 +1,3 @@
-www.py
 @echo off
 ::Batch
 chcp 65001 > nul
